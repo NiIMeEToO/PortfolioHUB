@@ -1,6 +1,4 @@
 # PortfolioHUB
-Repositório criado para organizar projetos acadêmicos e pessoais, utilizando Git, GitHub e GitHub Pages como  forma de versionamento, documentação e apresentação profissional.
-# PortfolioHUB
 
 Este repositório tem como objetivo reunir meus projetos acadêmicos e pessoais, utilizando boas práticas de versionamento com Git e GitHub.
 
